@@ -112,3 +112,9 @@ footer p{
 .media{
 	margin-top: 10px;
 }
+.main-container{
+	height: 100%;
+}
+.about-section{
+	height: 100vh;
+}
