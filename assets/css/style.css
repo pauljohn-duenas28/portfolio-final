@@ -10759,3 +10759,12 @@ header.masthead h1 {
   width: 100%;
   height: 100%;
 }
+#image1{
+  background-image: url("../images/capstone-1.png");
+}
+#image2{
+ background-image: url("../images/Capture.jpg");
+}
+#image3{
+  background-image: url("../images/Capture2.jpg");
+}
